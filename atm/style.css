@@ -1,0 +1,171 @@
+* 
+{
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: white;
+	margin: 0;
+	
+}
+* 
+{
+	box-sizing: border-box;
+}
+
+body
+{
+	background-color: white;
+	margin: 0;
+}
+th
+{
+	color: blue;
+	font-size: 18px;
+}
+h1
+{
+	color: blue;
+	font-size: 40px;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+}
+
+/* Style the top navigation bar */
+.topnav 
+{
+  overflow: hidden;
+  background-color: green;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  
+}
+
+/* Style the topnav links */
+.topnav a 
+{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  margin: 8px 0;
+}
+
+/* Change color on hover */
+.topnav a:hover 
+{
+	background-color: red;
+	color: black;
+	border-radius: 20px;
+}
+
+input[type=submit],a
+{
+  background-color: Green;
+  color: white;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: 0px solid #73AD21;
+  padding: 13px 20px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+input[type=text] ,input[type=date],input[type=mail] ,input[type=tel],input[type=password],input[type=number],select
+{
+  
+  padding: 10px 10px;
+  box-sizing: border-box;
+  border-radius: 20px;
+  margin: 8px 10px;
+}
+
+
+
+#box 
+{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+}
+
+/* Style the top navigation bar */
+.topnav 
+{
+  overflow: hidden;
+  background-color: white;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  
+}
+
+/* Style the topnav links */
+.topnav a 
+{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  margin: 8px 0;
+}
+
+/* Change color on hover */
+.topnav a:hover 
+{
+	background-color: red;
+	color: black;
+	border-radius: 20px;
+}
+
+input[type=submit],a
+{
+  background-color: Blue;
+  color: white;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border: 0px solid #73AD21;
+  padding: 13px 20px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+#box 
+{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
